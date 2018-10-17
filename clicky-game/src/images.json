@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "image": "./images/cat1.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./images/cat2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./images/cat3.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./images/cat4.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./images/cat5.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./images/cat6.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./images/cat7.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./images/cat8.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./images/cat9.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./images/cat10.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./images/cat11.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./images/cat12.jpg",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "image": "./images/cat13.jpg",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "image": "./images/cat14.jpg",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "image": "./images/cat15.jpg",
+        "clicked": false
+    },
+    {
+        "id": 16,
+        "image": "./images/cat16.jpg",
+        "clicked": false
+    }
+]
